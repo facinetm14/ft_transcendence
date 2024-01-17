@@ -22,5 +22,5 @@ Open Browser of your choice (built with Chromium in mind) and go to 'http://loca
 
 # PREVIEW
 
-[Imgur](https://i.imgur.com/y1HFbKJ.gifv)
+<iframe class="imgur-embed" width="100%" height="1762" frameborder="0" src="https://i.imgur.com/y1HFbKJ.gifv#embed"></iframe>
 
