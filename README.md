@@ -22,4 +22,4 @@ Open Browser of your choice (built with Chromium in mind) and go to 'http://loca
 
 # PREVIEW
 
-<img src="https://i.imgur.com/y1HFbKJ.gif" />
+<img src='https://i.imgur.com/y1HFbKJ.gif' />
